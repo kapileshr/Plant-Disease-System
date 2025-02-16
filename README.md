@@ -1,7 +1,7 @@
 # Plant-Disease-System
 🌿 Welcome to the Plant Disease Recognition System! 🔍
 
-Our mission is to help in identifying plant diseases efficiently. Upload an image of a plant, and our system will analyze it to detect any signs of diseases. Together, let's protect our crops and ensure a healthier harvest!
+Our mission is to help in identifying plant diseases efficiently. Upload an image of a plant, and our system will analyze it to detect any signs of diseases.
 
 📂 About the Dataset
 
@@ -16,6 +16,8 @@ The dataset is categorized into 38 different classes.
 It is divided into an 80/20 ratio for training and validation while preserving the directory structure.
 
 A separate directory containing 33 test images is created later for prediction purposes.
+
+DataSet link : https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 📁 Dataset Structure:
 
@@ -33,13 +35,9 @@ Analysis: The system processes the image using Convolutional Neural Networks (CN
 
 Results: The model predicts the disease and provides recommendations for further action.
 
-🏆 Why Choose This Model?
-
-✔ High Accuracy – Uses state-of-the-art machine learning techniques for precise disease detection.✔ User-Friendly – Simple and intuitive interface for easy navigation.✔ Fast & Efficient – Provides real-time predictions for quick decision-making.✔ Powered by Deep Learning – Utilizes TensorFlow and Keras to achieve robust performance.✔ Streamlit Integration – Interactive UI built using Streamlit for a smooth experience.
-
 🛠️ Technologies Used
 
-Python 🐍
+Python 
 
 TensorFlow/Keras for Deep Learning
 
